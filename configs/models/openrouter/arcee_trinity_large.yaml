@@ -1,0 +1,4 @@
+# configs/models/openrouter/<your_model>.yaml
+model: arcee-ai/trinity-large-preview:free
+api: openrouter
+human_readable_id: Arcee Trinity Large
